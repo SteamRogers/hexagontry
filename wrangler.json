@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "hexagontry",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dde21aa3-a33c-4057-89c0-348c43211639",
+			"database_name": "hexagon"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
